@@ -66,6 +66,10 @@ This is a list of commercial LoRaWAN gateways currently available for purchase. 
 
 + [L-gateway](http://www.adaptivemodules.com/assets/LoRa/L-Gateway-LoRa-Base-Station-Datasheet.pdf): An outdoor, low-cost gateway.
 
+## Milesight
+
++ [Milesight UG65]({{< relref "../../milesight/ug65" >}}): An 8-channel indoor gateway based on the SX1302, with Ethernet, Wi-Fi and optional cellular backhaul, supporting LoRa Basics Station and the UDP Packet Forwarder. Our documentation explains how to connect it to The Things Network.
+
 ## Tektelic
 
 + [KONA Mega IoT Gateway](https://tektelic.com/iot/lorawan-gateways/): highly scalable, multiple Rx/Tx antennas, built-in bandpass filters, geolocation.
